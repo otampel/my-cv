@@ -11,13 +11,13 @@
 
 * **2006 – 2012**
 
-Master of techniques and technologies in the field of “Navigating information-managing complexes”
+	*Master of techniques and technologies in the field of “Navigating information-managing complexes”*
 
-**National Research University of Information Technologies, Mechanics and Optics (University ITMO)**
+	**National Research University of Information Technologies, Mechanics and Optics (University ITMO)**
 
-**Faculty of IT and Management**
+	**Faculty of IT and Management**
 
-**Chair of Information-navigating Systems**
+	**Chair of Information-navigating Systems**
 
 
 
@@ -61,14 +61,14 @@ Master of techniques and technologies in the field of “Navigating information-
 ## Programming skills
 * HTML, CSS, Less/Sass/Stylus
 * JavaScript, CoffeeScript
-* JavaScript Frameworks and Libs  (jQuery, Lodash, RactiveJs, Angular)
-* JavaScript unit testing tools (Jasmine, Karma)
-* Build Tools (Webpack, Grunt, Gulp)
+* JavaScript Frameworks and Libs  (**jQuery, Lodash, RactiveJs, Angular**)
+* JavaScript unit testing tools (**Jasmine, Karma**)
+* Build Tools (**Webpack, Grunt, Gulp**)
 * NodeJS
 * Python
 * SQL
 * git
-* Monitoring tools (Logstash, Graphite)
+* Monitoring tools (**Logstash, Graphite**)
 * XSLT
 * XUL, XBL 
 * Scrum/Kanban and other Agile Methodologies
