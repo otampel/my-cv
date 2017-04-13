@@ -28,9 +28,9 @@
 
   * **Position:** Front-End Developer
 
-  * **Skills:**  JavaScript (ES6), React/Redux, Jest, CSS/Sass, RactiveJS, Webpack, NodeJS
+  * **Skills:**  JavaScript (ES6), React/Redux, Jest, CSS/Sass, RactiveJS, Webpack, NodeJS, AWS (Elastic beanstalk, EC2)
 
-  * **Job Responsibilities:** Development of search engine, Frontend architecture planning
+  * **Job Responsibilities:** Development of search engine
 
 * 2013 – 2015
 
@@ -72,3 +72,14 @@
 * XSLT
 * XUL, XBL 
 * Scrum/Kanban and other Agile Methodologies
+
+## Side projects
+* [mightygoose.com](http://mightygoose.com)
+  
+  ***Music search engine, music blogs crawler***
+
+  [Github repo](https://github.com/nogizhopaboroda/musfinder)
+  
+  **Technologies**: Python (Scrapy framework), NodeJS (KoaJS), PostgreSQL, RabbitMQ, Webpack, WebComponents, [ascesis lib](https://github.com/nogizhopaboroda/ascesis)
+  
+  **Platforms**: Heroku, AWS
