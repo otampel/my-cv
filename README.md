@@ -28,9 +28,9 @@
 
   * **Position:** Front-End Developer
 
-  * **Skills:**  JavaScript (ES6), CSS/Sass, RactiveJS, Webpack
+  * **Skills:**  JavaScript (ES6), React/Redux, Jest, CSS/Sass, RactiveJS, Webpack, NodeJS
 
-  * **Job Responsibilities:** Development of search engine
+  * **Job Responsibilities:** Development of search engine, Frontend architecture planning
 
 * 2013 – 2015
 
@@ -38,8 +38,8 @@
 
   * **Position:** Front-End Developer
   
-  * **Skills:** JavaScript/CoffeeScript, CSS/Sass, Angular.js, Jasmine/Karma, Python, 
-				Tornado, Ruby on Rails, Monitoring tools (Logstash, Graphite)
+  * **Skills:** JavaScript/CoffeeScript, CSS/Sass, Angular.js, Jasmine/Karma, Python(Tornado), 
+  		Ruby on Rails, Monitoring tools (Logstash, Graphite)
   * **Job Responsibilities:** Development of search engine
 			
 * 2011 – 2013
@@ -61,8 +61,8 @@
 ## Programming skills
 * HTML, CSS, Less/Sass/Stylus
 * JavaScript, CoffeeScript
-* JavaScript Frameworks and Libs  (**jQuery, Lodash, RactiveJs, Angular**)
-* JavaScript unit testing tools (**Jasmine, Karma**)
+* JavaScript Frameworks and Libs  (**jQuery, Lodash, React/Redux, RactiveJs, Angular**)
+* JavaScript unit testing tools and frameworks (**Jest, Karma, Jasmine**)
 * Build Tools (**Webpack, Grunt, Gulp**)
 * NodeJS
 * Python
