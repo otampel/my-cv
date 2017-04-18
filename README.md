@@ -1,10 +1,6 @@
 # Alexander Zhukov
 
-[Send email](mailto:al.zhukoff@gmail.com)
-
-[Github profile](https://github.com/nogizhopaboroda)
-
-[Linkedin profile](https://www.linkedin.com/pub/alexander-zhukov/6b/172/a48)
+[Send email](mailto:al.zhukoff@gmail.com) | [Github profile](https://github.com/nogizhopaboroda) | [Linkedin profile](https://www.linkedin.com/pub/alexander-zhukov/6b/172/a48)
 
 
 ## Education
