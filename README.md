@@ -76,6 +76,6 @@
 
   [Github repo](https://github.com/nogizhopaboroda/musfinder)
   
-  **Technologies**: Python (Scrapy framework), NodeJS (KoaJS), PostgreSQL, RabbitMQ, Webpack, WebComponents, [ascesis lib](https://github.com/nogizhopaboroda/ascesis)
+  **Technologies**: Python (Scrapy framework), NodeJS (KoaJS), PostgreSQL, RabbitMQ, Webpack, WebComponents, [modulor lib](https://github.com/holidaypirates/modulor)
   
-  **Platforms**: Heroku, AWS
+  **Platforms**: Heroku, AWS, DigitalOcean
