@@ -55,7 +55,7 @@
   * **Job Responsibilities:** Designing navigation equipment
   
 ## Programming skills
-* HTML, CSS, Less/Sass/Stylus
+* HTML, CSS, Less/Sass/Stylus, Postcss
 * JavaScript, CoffeeScript
 * JavaScript Frameworks and Libs  (**jQuery, Lodash, React/Redux, RactiveJs, Angular**)
 * JavaScript unit testing tools and frameworks (**Jest, Karma, Jasmine**)
@@ -74,8 +74,10 @@
   
   ***Music search engine, music blogs crawler***
 
-  [Github repo](https://github.com/nogizhopaboroda/musfinder)
+  [Webservice repo](https://github.com/nogizhopaboroda/musfinder)
   
-  **Technologies**: Python (Scrapy framework), NodeJS (KoaJS), PostgreSQL, RabbitMQ, Webpack, WebComponents, [modulor lib](https://github.com/holidaypirates/modulor)
+  [Crawlers repo](https://github.com/mightygoose/blogspider)
   
-  **Platforms**: Heroku, AWS, DigitalOcean
+  **Technologies**: Python (Scrapy framework), NodeJS (KoaJS), PostgreSQL, RabbitMQ, Webpack, WebComponents, [modulor lib](https://github.com/modulor-js/modulor)
+  
+  **Platforms**: Heroku, AWS, DigitalOcean, Scrapinghub
