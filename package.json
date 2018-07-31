@@ -1,0 +1,25 @@
+{
+  "name": "my-cv",
+  "version": "1.0.0",
+  "description": "[Send email](mailto:al.zhukoff@gmail.com) | [Github profile](https://github.com/nogizhopaboroda) | [Linkedin profile](https://www.linkedin.com/pub/alexander-zhukov/6b/172/a48)",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-pdf": "^9.0.0"
+  },
+  "devDependencies": {
+    "md-to-pdf": "github:simonhaenisch/md-to-pdf"
+  },
+  "scripts": {
+    "build": "md-to-pdf README.md CV_Zhukov.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nogizhopaboroda/my-cv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nogizhopaboroda/my-cv/issues"
+  },
+  "homepage": "https://github.com/nogizhopaboroda/my-cv#readme"
+}
