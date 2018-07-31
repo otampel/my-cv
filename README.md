@@ -18,7 +18,29 @@
 
 
 ## Work experience
-* 2015 – present
+
+
+* July 2018 - present
+
+   ***SevenOne Media GmbH (ProSiebenSat.1 Media SE)***
+
+  * **Position:** Software Engineer
+
+  * **Skills:**  JavaScript (ES6), Redux, NodeJS, AWS (EC2, ECS, Lambda), Terraform
+
+  * **Job Responsibilities:** Development of Ad SDK and related web services
+
+* January 2018 – July 2018
+
+   ***Holiday Pirates***
+
+  * **Position:** Front-End Tech Lead
+
+  * **Skills:**  Team management, Architecture planning, Agile workflow
+
+  * **Job Responsibilities:** Team Leading, Development of search engine
+  
+* 2015 – January 2018
 
    ***Holiday Pirates***
 
