@@ -10,7 +10,7 @@
     "md-to-pdf": "github:simonhaenisch/md-to-pdf"
   },
   "scripts": {
-    "build": "md-to-pdf README.md CV_Zhukov.pdf"
+    "build": "md-to-pdf --config-file config.js README.md CV_Zhukov.pdf"
   },
   "repository": {
     "type": "git",
