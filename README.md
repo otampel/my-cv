@@ -34,8 +34,8 @@
 
   * **Position:** Front-End Developer
   
-  * **Skills:** JavaScript/CoffeeScript, CSS/Sass, Angular.js, Jasmine/Karma, Python(Tornado), 
-  		Ruby on Rails, Monitoring tools (Logstash, Graphite)
+  * **Skills:** JavaScript/CoffeeScript, CSS/Sass, Angular.js, Jasmine/Karma, Python(Tornado), <br/>Ruby on Rails, Monitoring tools (Logstash, Graphite)
+
   * **Job Responsibilities:** Development of search engine
 			
 * 2011 – 2013
@@ -54,6 +54,8 @@
   * **Skills:** CAD/CAE/PLM systems
   * **Job Responsibilities:** Designing navigation equipment
   
+<br/><br/>
+
 ## Programming skills
 * HTML, CSS, Less/Sass/Stylus, Postcss
 * JavaScript, CoffeeScript
