@@ -18,7 +18,7 @@
 ## Work experience
 
 
-* ***[SevenOne Media GmbH (ProSiebenSat.1 Media SE)](https://www.sevenonemedia.de/service/ueber-uns)*** July 2018 - present
+* ***[SevenOne Media GmbH (ProSiebenSat.1 Media SE)](https://www.sevenonemedia.de/service/ueber-uns)*** **July 2018 - present**
 
   * **Position:** Software Engineer
 
@@ -26,7 +26,7 @@
 
   * **Job Responsibilities:** Development of Ad SDK and related web services
 
-* ***[Holiday Pirates](https://holidaypirates.group/about)*** January 2018 – July 2018
+* ***[Holiday Pirates](https://holidaypirates.group/about)*** **January 2018 – July 2018**
 
   * **Position:** Front-End Tech Lead
 
@@ -34,7 +34,7 @@
 
   * **Job Responsibilities:** Team Leading, Development of search engine
   
-* ***[Holiday Pirates](https://holidaypirates.group/about)*** 2015 – January 2018
+* ***[Holiday Pirates](https://holidaypirates.group/about)*** **2015 – January 2018**
 
   * **Position:** Front-End Developer
 
@@ -42,7 +42,7 @@
 
   * **Job Responsibilities:** Development of search engine
 
-* ***[JetRadar](https://www.jetradar.com/about/)*** 2013 – 2015
+* ***[JetRadar](https://www.jetradar.com/about/)*** **2013 – 2015**
 
   * **Position:** Front-End Developer
   
@@ -50,13 +50,13 @@
 
   * **Job Responsibilities:** Development of search engine
 			
-* ***[Yandex LLC](https://yandex.com/company/)*** 2011 – 2013
+* ***[Yandex LLC](https://yandex.com/company/)*** **2011 – 2013**
   
   * **Position:** Front-End Developer
   * **Skills:** JavaScript, XUL, XBL, XSLT, HTML, CSS
   * **Job Responsibilities:** Development of tools for search quality evaluation
 
-* ***[JSC “Concern “TsNII "Electropribor”](http://www.elektropribor.spb.ru/home/emain)*** 2009 - 2011
+* ***[JSC “Concern “TsNII "Electropribor”](http://www.elektropribor.spb.ru/home/emain)*** **2009 - 2011**
   
   * **Position:** design engineer
   * **Skills:** CAD/CAE/PLM systems
