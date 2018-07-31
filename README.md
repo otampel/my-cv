@@ -79,18 +79,19 @@
 <br/><br/>
 
 ## Programming skills
+* JavaScript
+* JS Frameworks and Libs (**jQuery, Lodash, React/Redux, RactiveJs, Angular**)
+* JS unit testing tools and frameworks (**Jest, Karma, Jasmine**)
+* Build Tools (**Webpack, Rollup, Parcel, Grunt, Gulp**)
 * HTML, CSS, Less/Sass/Stylus, Postcss
-* JavaScript, CoffeeScript
-* JavaScript Frameworks and Libs  (**jQuery, Lodash, React/Redux, RactiveJs, Angular**)
-* JavaScript unit testing tools and frameworks (**Jest, Karma, Jasmine**)
-* Build Tools (**Webpack, Grunt, Gulp**)
+* Web Components
 * NodeJS
 * Python
-* SQL
+* SQL (**PostgreSQL**)
 * git
 * Monitoring tools (**Logstash, Graphite**)
+* Infrastructure as code (**Terraform**)
 * XSLT
-* XUL, XBL 
 * Scrum/Kanban and other Agile Methodologies
 
 ## Side projects
