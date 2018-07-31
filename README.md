@@ -22,7 +22,7 @@
 
 * July 2018 - present
 
-   ***SevenOne Media GmbH (ProSiebenSat.1 Media SE)***
+   ***[SevenOne Media GmbH (ProSiebenSat.1 Media SE)](https://www.sevenonemedia.de/service/ueber-uns)***
 
   * **Position:** Software Engineer
 
@@ -32,7 +32,7 @@
 
 * January 2018 – July 2018
 
-   ***Holiday Pirates***
+   ***[Holiday Pirates](https://holidaypirates.group/about)***
 
   * **Position:** Front-End Tech Lead
 
@@ -42,7 +42,7 @@
   
 * 2015 – January 2018
 
-   ***Holiday Pirates***
+   ***[Holiday Pirates](https://holidaypirates.group/about)***
 
   * **Position:** Front-End Developer
 
@@ -52,7 +52,7 @@
 
 * 2013 – 2015
 
-  ***JetRadar***
+  ***[JetRadar](https://www.jetradar.com/about/)***
 
   * **Position:** Front-End Developer
   
@@ -62,7 +62,7 @@
 			
 * 2011 – 2013
 
-  ***Yandex LLC***
+  ***[Yandex LLC](https://yandex.com/company/)***
   
   * **Position:** Front-End Developer
   * **Skills:** JavaScript, XUL, XBL, XSLT, HTML, CSS
@@ -70,7 +70,7 @@
 
 * 2009 - 2011
 
-  ***JSC “Concern “TsNII "Electropribor”***
+  ***[JSC “Concern “TsNII "Electropribor”](http://www.elektropribor.spb.ru/home/emain)***
   
   * **Position:** design engineer
   * **Skills:** CAD/CAE/PLM systems
@@ -80,7 +80,7 @@
 
 ## Programming skills
 * JavaScript
-* JS Frameworks and Libs (**jQuery, Lodash, React/Redux, RactiveJs, Angular**)
+* JS Frameworks and Libs (**React/Redux, Angular, Lodash, jQuery**)
 * JS unit testing tools and frameworks (**Jest, Karma, Jasmine**)
 * Build Tools (**Webpack, Rollup, Parcel, Grunt, Gulp**)
 * HTML, CSS, Less/Sass/Stylus, Postcss
