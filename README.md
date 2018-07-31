@@ -13,8 +13,6 @@
 
 	**Faculty of IT and Management**
 
-	**Chair of Information-navigating Systems**
-
 
 
 ## Work experience
