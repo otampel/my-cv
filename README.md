@@ -62,7 +62,7 @@
   * **Skills:** CAD/CAE/PLM systems
   * **Job Responsibilities:** Designing navigation equipment
   
-<br/><br/>
+<br/><br/><br/>
 
 ## Programming skills
 * JavaScript
