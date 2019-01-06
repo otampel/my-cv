@@ -9,7 +9,7 @@
 
 	*Master of techniques and technologies in the field of “Navigating information-managing complexes”*
 
-	**National Research University of Information Technologies, Mechanics and Optics (University ITMO)**
+	**Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO)**
 
 	**Faculty of IT and Management**
 
@@ -69,7 +69,7 @@
   * **Skills:** CAD/CAE/PLM systems
   * **Job Responsibilities:** Designing navigation equipment
 
-<br/><br/><br/>
+<br/>
 
 ## Programming skills
 * JavaScript
