@@ -63,7 +63,7 @@
   * **Skills:** JavaScript, XUL, XBL, XSLT, HTML, CSS
   * **Job Responsibilities:** Development of tools for search quality evaluation
 
-* _**[JSC “Concern “TsNII "Electropribor”](http://www.elektropribor.spb.ru/home/emain)**_ **2009 - 2011**
+* _**[JSC “Concern “TsNII "Electropribor”](http://www.elektropribor.spb.ru/en/about/)**_ **2009 - 2011**
 
   * **Position:** design engineer
   * **Skills:** CAD/CAE/PLM systems
