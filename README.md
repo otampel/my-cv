@@ -18,12 +18,19 @@
 ## Work experience
 
 * _**[Native Instruments GmbH](https://www.native-instruments.com/en/company/)**_ **January 2019 - present**
+	* *November 2020 - present*
+		* **Position:** Frontend Tech Lead
 
-  * **Position:** Software Developer
+		* **Skills:**  Scrum, Architecture design (UML)
 
-  * **Skills:**  JavaScript, React, Redux, Graphql
+		* **Job Responsibilities:** Backlog refinement with PM, Sprints planning with engineering team, Tech roadmap, Website development
 
-  * **Job Responsibilities:** Development of http://native-instruments.com
+	* *January 2019 - November 2020*
+	  * **Position:** Frontend Software Engineer
+
+	  * **Skills:**  JavaScript, Typescript, React, Graphql, NodeJS
+
+	  * **Job Responsibilities:** Development of Native Instruments website
 
 * _**[SevenOne Media GmbH (ProSiebenSat.1 Media SE)](https://www.sevenonemedia.de/service/ueber-uns)**_ **July 2018 - December 2018**
 
@@ -72,20 +79,20 @@
 <br/>
 
 ## Programming skills
-* JavaScript
-* JS Frameworks and Libs (**React/Redux, Angular, Lodash, jQuery**)
-* JS unit testing tools and frameworks (**Jest, Karma, Jasmine**)
-* Build Tools (**Webpack, Rollup, Parcel, Grunt, Gulp**)
+* JavaScript, TypeScript
+* JS Frameworks and Libs (**React**)
+* JS unit testing tools and frameworks (**Jest, Jasmine**)
+* Build Tools (**Webpack, Rollup, Parcel**)
 * HTML, CSS, Less/Sass/Stylus, Postcss
 * Web Components
 * NodeJS
-* Python
-* SQL (**PostgreSQL**)
 * git
-* Monitoring tools (**Logstash, Graphite**)
-* Infrastructure as code (**Terraform**)
-* XSLT
 * Scrum/Kanban and other Agile Methodologies
+
+### Beginner experience
+* Python
+* SQL (**PostgreSQL**), Redis
+* Cloud Infrastructure (AWS, GCP, k8s)
 
 ## Side projects
 * [mightygoose.com](http://mightygoose.com)
