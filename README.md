@@ -3,23 +3,11 @@
 [Send email](mailto:al.zhukoff@gmail.com) | [Github profile](https://github.com/nogizhopaboroda) | [Linkedin profile](https://www.linkedin.com/pub/alexander-zhukov/6b/172/a48)
 
 
-## Education
-
-* **2006 – 2012**
-
-	*Master of techniques and technologies in the field of “Navigating information-managing complexes”*
-
-	**Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO)**
-
-	**Faculty of IT and Management**
-
-
-
 ## Work experience
 
 * _**[Native Instruments GmbH](https://www.native-instruments.com/en/company/)**_ **January 2019 - present**
 	* *November 2020 - present*
-		* **Position:** Frontend Tech Lead
+		* **Position:** Senior Frontend Engineer, Tech Lead
 
 		* **Skills:**  Scrum, Architecture design (UML)
 
@@ -40,21 +28,23 @@
 
   * **Job Responsibilities:** Development of Ad SDK and related web services
 
-* _**[Holiday Pirates](https://holidaypirates.group/about)**_ **January 2018 – July 2018**
+* _**[Holiday Pirates](https://holidaypirates.group/about)**_ **May 2015 – July 2018**
 
-  * **Position:** Front-End Tech Lead
+	* *January 2018 – July 2018*
 
-  * **Skills:**  Team management, Architecture planning, Agile workflow
+	  * **Position:** Frontend Tech Lead
 
-  * **Job Responsibilities:** Team Leading, Development of search engine
+	  * **Skills:**  Team management, Architecture planning, Agile workflow
 
-* _**[Holiday Pirates](https://holidaypirates.group/about)**_ **2015 – January 2018**
+	  * **Job Responsibilities:** Team Leading, Development of search engine
 
-  * **Position:** Front-End Developer
+	* *May 2015 – January 2018*
 
-  * **Skills:**  JavaScript (ES6), React/Redux, Jest, CSS/Sass, RactiveJS, Webpack, NodeJS, AWS (Elastic beanstalk, EC2)
+	  * **Position:** Front-End Developer
 
-  * **Job Responsibilities:** Development of search engine
+	  * **Skills:**  JavaScript (ES6), React/Redux, Jest, CSS/Sass, RactiveJS, Webpack, NodeJS, AWS (Elastic beanstalk, EC2)
+
+	  * **Job Responsibilities:** Development of search engine
 
 * _**[JetRadar](https://www.jetradar.com/about/)**_ **2013 – 2015**
 
@@ -78,14 +68,27 @@
 
 <br/>
 
+## Education
+
+* **2006 – 2012**
+
+	*Master of techniques and technologies in the field of “Navigating information-managing complexes”*
+
+	**Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (University ITMO)**
+
+	**Faculty of IT and Management**
+
+<br/>
+
 ## Programming skills
 * JavaScript, TypeScript
+* NodeJS
+* GraphQL
 * JS Frameworks and Libs (**React**)
 * JS unit testing tools and frameworks (**Jest, Jasmine**)
 * Build Tools (**Webpack, Rollup, Parcel**)
 * HTML, CSS, Less/Sass/Stylus, Postcss
 * Web Components
-* NodeJS
 * git
 * Scrum/Kanban and other Agile Methodologies
 
@@ -93,6 +96,8 @@
 * Python
 * SQL (**PostgreSQL**), Redis
 * Cloud Infrastructure (AWS, GCP, k8s)
+
+<br/>
 
 ## Side projects
 * [mightygoose.com](http://mightygoose.com)
