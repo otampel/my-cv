@@ -1,7 +1,20 @@
 # Olga Tampel
 
+Berlin
+
++4917677049652
+
 [Email](mailto:tampel.olya@gmail.com) | [Github profile](https://github.com/otampel) | [Linkedin profile](https://www.https://www.linkedin.com/in/olga-tampel-357848158/)
 
+## Technical skills
+* Python
+* Pandas
+* SQL (**PostgreSQL**)
+* Tableau
+* Data Visualization (**Seaborn, Plotly**)
+* Data cleaning
+* Exploratory data analysis
+<br/>
 
 ## Work experience
 
@@ -37,25 +50,26 @@
 
 	*Data Analytics*
 
+	*Course Contents:*
+
+	- Basic Python
+	- Data cleaning and preparation
+	- EDA
+	- Statistical data analysis
+	- SQL
+	- A/B testing
+	- Data visualization
+	- Tableau
+
+
 * **2003 – 2008**
 
 	*BSc. in Linguistics*
 
 	**Saint Petersburg State University**
 
-	**Faculty of Linguistics**
+	*Faculty of Linguistics*
 
-	**Department of Phonetics**
-
-<br/>
-
-## Technical skills
-* Python
-* Pandas
-* SQL (**PostgreSQL**)
-* Tableau
-* Data Visualization (**Seaborn, Plotly**)
-* Data cleaning
-* Exploratory data analysis
+	*Department of Phonetics*
 
 <br/>
