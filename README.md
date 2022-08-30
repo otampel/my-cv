@@ -65,8 +65,6 @@
 
 	**Saint Petersburg State University**
 
-	*Faculty of Linguistics*
-
-	*Department of Phonetics*
+	*Faculty of Linguistics, Department of Phonetics*
 
 <br/>
