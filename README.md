@@ -1,8 +1,5 @@
 # Olga Tampel
 
-Berlin
-
-+4917677049652
 
 [Email](mailto:tampel.olya@gmail.com) | [Github profile](https://github.com/otampel) | [Linkedin profile](https://www.https://www.linkedin.com/in/olga-tampel-357848158/)
 
