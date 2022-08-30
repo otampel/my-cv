@@ -32,7 +32,7 @@
 	 * **Job Responsibilities:** teaching students according to their individual educational needs, abilities, and potential using a variety of materials both officially published and customised
 
 
-* _**Educa Language School**_ **2008 – 2017**
+* _**Educa Language School**_ **2008 – 2011**
 
 	 * **Position:** English Teacher
 	 * **Job Responsibilities:** teaching students of different levels, carrying out language level tests, providing guidance and advice to students on educational matters
